@@ -36,7 +36,6 @@ As a Data Scientist in the risk management department, we have access to financi
 │   ├── 06_decision_tree_assignment.ipynb
 │   ├── 07_Ensemble_Models.ipynb            # Random Forest & Gradient Boosting
 │   ├── 07_ensemble_method_assignments.ipynb
-│   ├── 07_ensemble_method_solutions.ipynb  # Assignment solutions
 │   ├── 08_Pipeline_Scoring.ipynb           # Sklearn pipelines & model scoring
 │   ├── 08_Pipeline.ipynb
 │   └── project_credit_classification.ipynb # 🎯 Capstone project notebook
