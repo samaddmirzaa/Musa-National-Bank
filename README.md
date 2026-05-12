@@ -107,7 +107,7 @@ Then launch Jupyter:
 jupyter notebook
 ```
 
-Start with `01_Data_Prep___EDA.ipynb` if following the course progression, or jump straight to `project_credit_classification.ipynb` for the capstone.
+Start with `01_Data_Prep___EDA.ipynb` if following gradual progression, or jump straight to `project_credit_classification.ipynb` for the capstone.
 
 ---
 
@@ -131,10 +131,10 @@ The capstone notebook (`project_credit_classification.ipynb`) ties together all 
 ## 🛠️ Tech Stack
 
 - **Python 3.11**
-- **pandas** & **NumPy** — data manipulation
-- **scikit-learn** — modeling, pipelines, evaluation
-- **imbalanced-learn** — SMOTE and resampling strategies
-- **matplotlib** & **seaborn** — visualization
+- **pandas** & **NumPy**: data manipulation
+- **scikit-learn**: modeling, pipelines, evaluation
+- **imbalanced-learn**: SMOTE and resampling strategies
+- **matplotlib** & **seaborn**: visualization
 
 ---
 
