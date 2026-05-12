@@ -135,9 +135,3 @@ The capstone notebook (`project_credit_classification.ipynb`) ties together all 
 - **scikit-learn**: modeling, pipelines, evaluation
 - **imbalanced-learn**: SMOTE and resampling strategies
 - **matplotlib** & **seaborn**: visualization
-
----
-
-## 📝 License
-
-This project is for educational purposes. Dataset usage is subject to their respective sources' terms.
